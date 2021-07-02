@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(130, 10, 209);
+}
+h1{
+    color: white;
+    font-style: bold;
+}
+h2{
+    color: white;
+    font-style: bold;
+}
+h3{
+    color: white;
+    font-style: bold;
+}
+
+.link{
+    background-color:white;
+    color: rgb(130, 10, 209);
+    font-size: large;
+    border-radius: 2px;
+}
+
+.erro{
+    font-size: 2cm;
+    font-style: inherit;
+}
